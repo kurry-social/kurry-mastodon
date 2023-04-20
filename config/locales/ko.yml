@@ -1703,6 +1703,8 @@ ko:
     contrast: 마스토돈 (고대비)
     default: 마스토돈 (어두움)
     mastodon-light: 마스토돈 (밝음)
+    default-bluebird: 파랑새 (어두움)
+    default-bluebird-light: 파랑새 (밝음)
   time:
     formats:
       default: "%Y-%m-%d %H:%M"
